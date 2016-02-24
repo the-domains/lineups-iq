@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[lineups-iq]]></title>
+        <description><![CDATA[lineups-iq]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 24 Feb 2016 20:19:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introducing Lineups iQ - optimize daily fantasy sports lineups like the Pros.]]></title>
+            <description><![CDATA[<article><h1>Introducing Lineups iQ - optimize daily fantasy sports lineups like the Pros.</h1><p>Meet Lineups iQ, a mobile app for designed for casual players to generate and optimize winning fantasy sports lineups.</p></article>]]></description>
+            <link>undefinedintroducing-lineups-iq-optimize-daily-fantasy-sports-lineu/index.html</link>
+            <guid isPermaLink="false">b89ba868-0464-4da7-a0f6-4eddf591fc2d</guid>
+            <pubDate>Wed, 24 Feb 2016 20:19:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
